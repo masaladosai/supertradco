@@ -12,7 +12,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Open `agent.py` and replace `PASTE_YOUR_NEW_GEMINI_API_KEY_HERE` with your new Gemini API key. Then run:
+Open `agent.py` and replace `with_gemini_api` with your new Gemini API key. Then run:
 
 ```bash
 python agent.py
