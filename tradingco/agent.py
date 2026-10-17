@@ -3,7 +3,7 @@ import re
 from google import genai
 from google.genai import types
 
-API_KEY = "AQ.Ab8RN6JnCX_T8HzX6OnZLUzY3F1dqObAZLC4qV1Isru8hXi4vA"
+API_KEY = "ur_api_key_here"
 MODEL = "gemini-2.5-flash"
 ROOT = Path(__file__).resolve().parent
 PACK = ROOT / "research_pack"
